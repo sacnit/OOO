@@ -1,5 +1,5 @@
 # Order Of Volatility
-This is a copy-paste from[Computer Forensics Reporter](https://www.computer-forensics-recruiter.com/order-of-volatility/) <br> 
+This is a copy-paste from [Computer Forensics Reporter](https://www.computer-forensics-recruiter.com/order-of-volatility/) <br> 
 For tools and methods: <br>
 [Windows](https://aditya-pratap9557.medium.com/windows-memory-forensics-using-open-source-tools-3ec09930732e)
 [Linux](https://cybersecurity.att.com/blogs/security-essentials/volatile-data-acquisition-from-live-linux-systems-part-i)
